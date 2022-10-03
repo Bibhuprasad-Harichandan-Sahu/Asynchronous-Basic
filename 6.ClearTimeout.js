@@ -15,3 +15,5 @@ let id = setTimeout(increaseCount, 3000);
 // clearTimeout
 clearTimeout(id);
 console.log('setTimeout is stopped.');
+
+
